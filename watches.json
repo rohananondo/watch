@@ -1,0 +1,42 @@
+[
+    {
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": 10010,
+      "case_material": "Stainless Steel",
+      "movement": "Automatic",
+      "water_resistance": 300
+    },
+    {
+      "brand": "Omega",
+      "model": "Speedmaster Professional Moonwatch",
+      "price": 5500,
+      "case_material": "Stainless Steel",
+      "movement": "Manual Winding",
+      "water_resistance": 50
+    },
+    {
+      "brand": "TAG Heuer",
+      "model": "Carrera",
+      "price": 3500,
+      "case_material": "Steel",
+      "movement": "Automatic",
+      "water_resistance": 100
+    },
+    {
+      "brand": "Seiko",
+      "model": "Presage Cocktail Time",
+      "price": 450,
+      "case_material": "Stainless Steel",
+      "movement": "Automatic",
+      "water_resistance": 50
+    },
+    {
+      "brand": "Citizen",
+      "model": "Eco-Drive",
+      "price": 250,
+      "case_material": "Stainless Steel",
+      "movement": "Solar Powered",
+      "water_resistance": 100
+    }
+  ]
